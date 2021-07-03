@@ -1,3 +1,3 @@
-# Testing-Practice
+# Testing Practice
 
 Test Driven Development using Jest
